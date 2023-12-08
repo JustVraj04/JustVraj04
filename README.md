@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vraj Dalal</h1>
-<h3 align="center">Building powerful backends with precision and passion | Backend Developer from India</h3>
+<h3 align="center">Building powerful softwares with precision and passion | Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilla04&label=Profile%20views&color=0e75b6&style=flat" alt="devilla04" /> </p>
 
-- 🔭 I’m currently working on [E-commerce system](https://github.com/DeVilla04/Pharmacy-E-commerce-System)
+- 🔭 I’m currently working on [E2EE Chat Application]
 
 - 🌱 I’m currently learning **Machine Learning and Web3**
 
-- 👯 I’m looking to collaborate on **NodeJS projects**
+- 👯 I’m looking to collaborate on **NodeJS and Django projects**
 
 - 💬 Ask me about **Java, JavaScript, Node, Express, MongoDB**
 
 - 📫 How to reach me **dalalvraj21@gmail.com**
-
-- ⚡ Fun fact **Did you know that every time you click 'login' on a website, a backend developer somewhere in the world gets their wings?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
