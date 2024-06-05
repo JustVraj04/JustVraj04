@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilla04&label=Profile%20views&color=0e75b6&style=flat" alt="devilla04" /> </p>
 
-- 🔭 I’m currently working on [E2EE Chat Application]
+- 🔭 I’m currently working on [E2EE Chat Application] and Social Media Application
 
-- 🌱 I’m currently learning **Machine Learning and Web3**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **NodeJS and Django projects**
 
